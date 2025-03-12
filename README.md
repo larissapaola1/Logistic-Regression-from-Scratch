@@ -1,5 +1,5 @@
 # Logistic-Regression-from-Scratch
-This is a Logistic Regression model that I coded from scratch. Actively trying to optimize it!
+This is a Logistic Regression model that I coded from scratch. Actively trying to optimize it and add features. **End goal: be able to fine-tune hyperparameters and insert datasets.**
 
 This project implements **Logistic Regression** from scratch using Python, without relying on machine learning libraries like `scikit-learn`. The goal is to understand the underlying principles and math behind logistic regression, as well as gain hands-on experience in implementing it.
 
